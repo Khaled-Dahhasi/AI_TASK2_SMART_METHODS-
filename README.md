@@ -1,5 +1,5 @@
 # AI_TASK2_SMART_METHODS-
-This work is for my seconed task in the AI route at [Smart Methods'](https://s-m.com.sa/c12_in.php) training program.
+This work is for my second task in the AI route at [Smart Methods'](https://s-m.com.sa/c12_in.php) training program.
 
 ## Task description 
 Using [Turtlebot3](https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/) with [SLAM approach](https://en.wikipedia.org/wiki/Simultaneous_localization_and_mapping) to create and save a map.
